@@ -1,6 +1,9 @@
 [submodule "ats-login"]
 	path = ats-login
 	url = https://github.com/Anirudh-WB/ATS-Login
+[submodule "ats-root"]
+	path = ats-root
+	url = https://github.com/Anirudh-WB/ATS-Root
 [submodule "ats-post"]
 	path = ats-post
 	url = https://github.com/Nimesh-WB/ats-post
