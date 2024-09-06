@@ -4,3 +4,6 @@
 [submodule "ats-post"]
 	path = ats-post
 	url = https://github.com/Nimesh-WB/ats-post
+[submodule "ats-feed"]
+	path = ats-feed
+	url = https://github.com/Nimesh-WB/ats-feed
